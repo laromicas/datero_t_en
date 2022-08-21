@@ -1,5 +1,5 @@
 {
-    "actions": [
+    "{dat_path}": [
         {
             "action": "LoadDatFile",
             "class_name": "seeds.t_en.t_en.dat.TranslatedEnglishDat"
