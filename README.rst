@@ -7,8 +7,8 @@
    \____ |(____  /__|  \___  >__|   \____/
         \/     \/          \/
 
-Datero - Redump Seed
-=====================
+Datero - TranslatedEnglish Seed
+===============================
 
 Datero is a WIP Python command line tool to download and organize your Dat Roms.
 As today the tool supports dat-omatic, redump, and translated-english dats.
