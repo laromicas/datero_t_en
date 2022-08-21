@@ -7,7 +7,7 @@ from concurrent.futures import ThreadPoolExecutor
 DATERO_HOME = os.getenv('DATERO_HOME', os.getcwd())
 sys.path.append(DATERO_HOME)
 
-from repositories.ia import InternetArchive
+from datero.repositories.ia import InternetArchive
 
 
 TMP = 'tmp'
