@@ -9,6 +9,7 @@ from datero.commands import config
 
 class TranslatedEnglishDat(XMLDatFile):
     """ Translated English Dat class. """
+    seed: str = 't_en'
 
     def initial_parse(self):
         # pylint: disable=R0801
