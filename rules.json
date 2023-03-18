@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Translated-English DAT",
+        "class_name": "datero.seeds.t_en.t_en.dat.TranslatedEnglishDat",
+        "seed": "redump_bios",
+        "priority": 50,
+        "rules": [
+            {
+                "key": "name",
+                "operator": "contains",
+                "value": "[T-En]"
+            }
+        ]
+    }
+]
