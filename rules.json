@@ -2,7 +2,7 @@
     {
         "name": "Translated-English DAT",
         "class_name": "datero.seeds.t_en.t_en.dat.TranslatedEnglishDat",
-        "seed": "redump_bios",
+        "seed": "t_en",
         "priority": 50,
         "rules": [
             {
