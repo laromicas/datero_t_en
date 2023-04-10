@@ -4,7 +4,7 @@
 import re
 
 from datero.repositories.dat import XMLDatFile
-from datero.commands import config
+from datero.configuration import config
 
 
 class TranslatedEnglishDat(XMLDatFile):
